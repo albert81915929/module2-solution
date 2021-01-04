@@ -12,7 +12,6 @@ p{
   width: 95%;
   height: 150px;
   margin: 10px;
-  margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
   color: white;
@@ -119,7 +118,7 @@ p{
        width: 100%;
      }
      .col-md-12 p{
-      width: 98%;
+      width: 97.5%;
      }
 }
 /***Small Device***/
@@ -191,7 +190,7 @@ div#container3 {
   background-color: #3D6AA0;
   position: absolute;
   top: 0px;
-  right: 6.3%;
+  right: 0;
 }#p2{
   width: 100px;
   height: 20px;
@@ -201,18 +200,19 @@ div#container3 {
   background-color: #4F3EA0;
   position: absolute;
   top: 0px;
-  right: 6.3%;
+  right: 0;
 }
 #p3 {
   width: 150px;
   height: 20px;
   border: 1px solid black;
   text-align: center;
+  margin-right: 10px;
   margin-bottom: 15px;
   background-color: #5F8EA2;
   position: absolute;
   top: 0px;
-  right: 6%;
+  right: 0;
 }
 
 
