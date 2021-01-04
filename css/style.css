@@ -118,6 +118,9 @@ p{
      .col-md-12 {
        width: 100%;
      }
+     .col-md-12 p{
+      width: 98%;
+     }
 }
 /***Small Device***/
 @media (max-width: 767px){
